@@ -1,0 +1,11 @@
+Current version: 1.1.8
+
+-Added selfbot commands so you guys can use it to control your selfbot.
+-Add more information at the Info option.
+-You will have 3 option to choice at the end from now.
+ +Choice 1: Restart The Bot
+ +Choice 2: Get Support Information
+ +Choice 3: Get The Selfbot Stat.
+ +Choice 4: Just exit, ofcourse.
+ -Added inputimeout, you will have 10 seconds to choice option for now. If TimeoutOccurred then it will automatically choose option 1 for you.
+ -Added automatically use crate because people requesting it.
